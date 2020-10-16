@@ -19,4 +19,5 @@ for (var i = 0; i < 5; i++) {
     }
 }
 
+//controllo che i numeri dispari siano stati inseriti correttamente nell'array
 console.log(numeri_dispari)
